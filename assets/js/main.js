@@ -57,3 +57,9 @@ switch (a) {
 // if (12==a<<4) {
 //     console.log("qis");
 // }
+
+let b = "salam"
+
+for (let i=0; i<b.length ; i++) {
+    console.log(b.replace ("m", "t")   [i]);
+}
